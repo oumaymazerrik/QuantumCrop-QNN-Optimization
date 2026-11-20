@@ -1,0 +1,4 @@
+True Label,Ideal Prediction,Hardware Prediction,Same Prediction,Quantum Measurement MAE
+alfalfa,alfalfa,alfalfa,True,0.06998624
+maize,maize,maize,True,0.11576383
+wheat,wheat,wheat,True,0.07252039

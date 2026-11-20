@@ -1,0 +1,26 @@
+Model,Macro_F1,Std_F1,Category
+ZZ Encoding QNN (seed 0),0.4298,,Quantum QNN
+Deep Linear QNN (3-seed mean),0.8274,0.0455,Quantum QNN
+CatBoost Classical,0.845962,,Classical ML
+XGBoost Classical,0.853061,,Classical ML
+Official QNN (3-seed mean),0.855694,0.007382,Quantum QNN
+Quantum XGBoost,0.8662,,Hybrid ML
+Quantum CatBoost,0.873135,,Hybrid ML
+Standard Hybrid (3-seed mean),0.882367,0.016576,Hybrid NN
+Classical NN (3-seed mean),0.884559,0.003541,Classical NN
+Multi-View + QNN 10%,0.886314,,Hybrid ML
+Multi-View + QNN 20%,0.886314,,Hybrid ML
+Classical Multi-View Ensemble,0.886314,,Classical ML
+Standard Hybrid Ensemble,0.886667,,Hybrid NN
+Classical NN Ensemble,0.886926,,Classical NN
+Residual Hybrid (3-seed mean),0.889514,0.016124,Hybrid NN
+Multi-View + QNN 30%,0.892904,,Hybrid ML
+SVM Classical,0.892904,,Classical ML
+QNN + SVM Fusion 50%,0.893048,,Hybrid ML
+Optimized Quantum SVM,0.893176,,Hybrid ML
+Quantum Features + SVM,0.893194,,Hybrid ML
+Combined Quantum Ensemble,0.893458,,Hybrid NN
+Original End-to-End Hybrid NN (seed 0),0.893783,,Hybrid NN
+Residual Hybrid Ensemble,0.893783,,Hybrid NN
+Reuploading Hybrid Ensemble,0.900235,,Hybrid NN
+Reuploading Hybrid (3-seed mean),0.9021,0.003703,Hybrid NN

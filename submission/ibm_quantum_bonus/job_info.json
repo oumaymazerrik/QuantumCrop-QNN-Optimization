@@ -1,0 +1,9 @@
+{
+  "backend": "ibm_fez",
+  "job_id": "dc0bicinj2vs73ddph4g",
+  "model": "Reuploading Hybrid QNN",
+  "seed": 2,
+  "num_qubits": 4,
+  "shots_per_circuit": 1024,
+  "num_circuits": 3
+}

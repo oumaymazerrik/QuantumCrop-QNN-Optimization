@@ -1,0 +1,39 @@
+Model,Macro-F1,Category
+ZZ Encoding QNN Seed 0,0.4298,Quantum QNN
+Deep Linear QNN 3-Seed Mean,0.8274,Quantum QNN
+CatBoost Classical,0.845962,Classical ML
+Official QNN Seed 0,0.8473,Quantum QNN
+XGBoost Classical,0.853061,Classical ML
+Official QNN 3-Seed Mean,0.855694,Quantum QNN
+Quantum XGBoost,0.8662,Hybrid ML
+Standard Hybrid Seed 2,0.867102,Hybrid Neural Network
+Quantum CatBoost,0.873135,Hybrid ML
+Residual Hybrid Seed 1,0.874668,Hybrid Neural Network
+Standard Hybrid Seed 1,0.88,Hybrid Neural Network
+Classical NN Seed 2,0.880475,Classical NN
+Standard Hybrid 3-Seed Mean,0.882367,Hybrid Neural Network
+Classical NN 3-Seed Mean,0.884559,Classical NN
+Multi-View + QNN 10%,0.886314,Hybrid ML
+Classical SVM Ensemble,0.886314,Classical ML
+Multi-View + QNN 20%,0.886314,Hybrid ML
+Classical NN Seed 0,0.886406,Classical NN
+Standard Hybrid Ensemble,0.886667,Hybrid Neural Network
+Classical NN Seed 1,0.886794,Classical NN
+Classical NN Ensemble,0.886926,Classical NN
+Residual Hybrid Seed 2,0.887208,Hybrid Neural Network
+Residual Hybrid 3-Seed Mean,0.889514,Hybrid Neural Network
+SVM Classical,0.892904,Classical ML
+Multi-View + QNN 30%,0.892904,Hybrid ML
+QNN + SVM Fusion 50%,0.893048,Hybrid ML
+Optimized Quantum SVM,0.893176,Hybrid ML
+Quantum Features + SVM,0.893194,Hybrid ML
+Combined Quantum Ensemble,0.893458,Hybrid Neural Network
+Residual Hybrid Ensemble,0.893783,Hybrid Neural Network
+Original End-to-End Hybrid NN,0.893783,Hybrid Neural Network
+Reuploading Hybrid Seed 0,0.899701,Hybrid Neural Network
+Standard Hybrid Seed 0,0.9,Hybrid Neural Network
+Reuploading Hybrid Ensemble,0.900235,Hybrid Neural Network
+Reuploading Hybrid Seed 1,0.900235,Hybrid Neural Network
+Reuploading Hybrid 3-Seed Mean,0.9021,Hybrid Neural Network
+Reuploading Hybrid Seed 2,0.906364,Hybrid Neural Network
+Residual Hybrid Seed 0,0.906667,Hybrid Neural Network

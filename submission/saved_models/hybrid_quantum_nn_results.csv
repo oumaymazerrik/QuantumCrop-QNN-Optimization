@@ -1,0 +1,5 @@
+Model,Macro-F1
+Official QNN,0.8473
+Classical SVM,0.892904
+Quantum Features + SVM,0.893194
+End-to-End Hybrid Quantum NN,0.893783255876608

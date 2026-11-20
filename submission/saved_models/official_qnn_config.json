@@ -1,0 +1,29 @@
+{
+  "model": "Official QNN",
+  "seed": 0,
+  "encoding": "ry",
+  "qubits": 4,
+  "max_evals": 100,
+  "labels": [
+    "alfalfa",
+    "maize",
+    "wheat"
+  ],
+  "features": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5",
+    "B6",
+    "B7",
+    "B8",
+    "B8A",
+    "B9",
+    "B11",
+    "B12",
+    "NDVI"
+  ],
+  "validation_macro_f1": 0.8473003848003847,
+  "validation_accuracy": 0.8466666666666667
+}

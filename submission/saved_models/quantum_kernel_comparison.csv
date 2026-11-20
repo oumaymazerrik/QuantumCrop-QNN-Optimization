@@ -1,0 +1,7 @@
+Model,Macro-F1
+Residual Hybrid (best seed),0.906667
+Reuploading Hybrid (3-seed mean),0.9021
+Quantum Features + SVM,0.893194
+Classical SVM,0.892904
+Official QNN (3-seed mean),0.855694
+Quantum Kernel SVM,0.8235509557664947
